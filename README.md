@@ -1,7 +1,7 @@
 # Gamer Card
 This is a webpage where gamers All information is designed in one card with animation.
 
-#Output
+## Output
 
 ![Uploading New Project 2 [60D4BBA].gif…]()
 
